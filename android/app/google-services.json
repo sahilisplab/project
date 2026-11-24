@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839090516206",
+    "project_id": "project-818d8",
+    "storage_bucket": "project-818d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839090516206:android:e1a231d04200015f46c3ff",
+        "android_client_info": {
+          "package_name": "com.minecraftguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPr5U0-LTg-kB7AXToImlTTHcE0W99s78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
